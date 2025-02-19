@@ -223,6 +223,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.29289
@@ -372,6 +380,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -941,7 +957,7 @@ MonoBehaviour:
   serializedScenarios:
   - scenario: Default
     data:
-      sceneHash: 172912807
+      sceneHash: -1338279053
       cellDataAsset: {fileID: 4900000, guid: 05a36518a49e0e746a95b69999461c67, type: 3}
       cellOptionalDataAsset: {fileID: 4900000, guid: 47644fb86a16aef4ca25b8180d0aab90,
         type: 3}
@@ -1789,6 +1805,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -3025,11 +3049,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -3088,6 +3120,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &140122266 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 140122265}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &149178994
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3169,11 +3207,27 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_Name
       value: VegetationLarge07 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357261857304414, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.57056004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.57056004
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3220,6 +3274,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+--- !u!4 &158816781 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce,
+    type: 3}
+  m_PrefabInstance: {fileID: 158816780}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &159174380
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3231,6 +3291,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -3749,6 +3817,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4353,6 +4429,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.038712766
@@ -4682,6 +4766,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.111096
@@ -4814,11 +4906,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_Name
       value: VegetationLarge07
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357261857304414, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4838,15 +4938,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4865,6 +4965,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+--- !u!4 &253975400 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce,
+    type: 3}
+  m_PrefabInstance: {fileID: 253975399}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &254300740
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5693,6 +5799,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.853364
@@ -5755,6 +5869,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -5932,15 +6054,23 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.y
@@ -5948,7 +6078,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5995,6 +6125,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &313671429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 313671428}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &324169368
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6345,6 +6481,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -9841,15 +9985,23 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.y
@@ -9857,7 +10009,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9904,6 +10056,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &463178147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 463178146}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &466336664
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11548,15 +11706,23 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.y
@@ -11564,7 +11730,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11611,6 +11777,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &556181015 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 556181014}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &563681052
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12071,11 +12243,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1239211768612062, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_Name
       value: VegetationLarge02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12122,6 +12302,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+--- !u!4 &568939579 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d,
+    type: 3}
+  m_PrefabInstance: {fileID: 568939578}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &572619526
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12370,6 +12556,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15900,6 +16094,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.14532909
@@ -16771,15 +16973,23 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.0506
+      value: 3.0505998
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.y
@@ -16787,7 +16997,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.0506
+      value: 3.0505998
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16834,6 +17044,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &871292095 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 871292094}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &872199585
 GameObject:
   m_ObjectHideFlags: 0
@@ -23577,6 +23793,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.038712766
@@ -23721,11 +23945,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1238384290194472, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_Name
       value: VegetationLarge03V2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23745,15 +23977,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -23772,6 +24004,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+--- !u!4 &982748094 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127,
+    type: 3}
+  m_PrefabInstance: {fileID: 982748093}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &983984095
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24520,11 +24758,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -24583,6 +24829,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1013853726 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1013853725}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1016006032
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25055,6 +25307,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.14532909
@@ -25279,6 +25539,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25885,11 +26153,27 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1238384290194472, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_Name
       value: VegetationLarge03V2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.36334005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.36334005
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25936,6 +26220,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+--- !u!4 &1093593732 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127,
+    type: 3}
+  m_PrefabInstance: {fileID: 1093593731}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1095066224
 GameObject:
   m_ObjectHideFlags: 0
@@ -26366,11 +26656,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -26402,15 +26700,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -26429,21 +26727,35 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1110579622 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1110579621}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1130225536
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.y
@@ -26451,7 +26763,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.0506
+      value: 3.0506003
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -26498,6 +26810,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &1130225537 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1130225536}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1133210968
 GameObject:
   m_ObjectHideFlags: 0
@@ -26982,11 +27300,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1239211768612062, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_Name
       value: VegetationLarge02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27033,6 +27359,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+--- !u!4 &1160387304 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1160387303}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1165933831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27194,6 +27526,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -27391,6 +27731,37 @@ Transform:
   - {fileID: 1726117091}
   - {fileID: 1472783202}
   - {fileID: 1515696383}
+  - {fileID: 2125950476}
+  - {fileID: 313671429}
+  - {fileID: 556181015}
+  - {fileID: 463178147}
+  - {fileID: 1130225537}
+  - {fileID: 1256517622}
+  - {fileID: 871292095}
+  - {fileID: 1741133920}
+  - {fileID: 1110579622}
+  - {fileID: 1227210577}
+  - {fileID: 1734599497}
+  - {fileID: 140122266}
+  - {fileID: 1635588529}
+  - {fileID: 1539589873}
+  - {fileID: 1631463974}
+  - {fileID: 1013853726}
+  - {fileID: 253975400}
+  - {fileID: 2019060471}
+  - {fileID: 1318386518}
+  - {fileID: 158816781}
+  - {fileID: 982748094}
+  - {fileID: 1534869504}
+  - {fileID: 1604293650}
+  - {fileID: 1093593732}
+  - {fileID: 1649707769}
+  - {fileID: 1873624789}
+  - {fileID: 1160387304}
+  - {fileID: 1466431688}
+  - {fileID: 568939579}
+  - {fileID: 1847356693}
+  - {fileID: 1289295835}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1193878109
@@ -28028,11 +28399,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -28091,6 +28470,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1227210577 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1227210576}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1227642309
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28780,15 +29165,23 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.0506
+      value: 3.0506005
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.y
@@ -28796,7 +29189,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.0506
+      value: 3.0506005
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28843,6 +29236,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &1256517622 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1256517621}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1263167974
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29180,6 +29579,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.14532909
@@ -29474,11 +29881,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1708773231003276, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
       propertyPath: m_Name
       value: VegetationLarge04 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1708773231003276, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1803427967947812, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4460726850382584, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29525,6 +29940,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
+--- !u!4 &1289295835 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4460726850382584, guid: f5d39a49ff4d26543993ef8caa8f7c42,
+    type: 3}
+  m_PrefabInstance: {fileID: 1289295834}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1297996844
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30065,11 +30486,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_Name
       value: VegetationLarge07 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357261857304414, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30116,6 +30545,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+--- !u!4 &1318386518 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce,
+    type: 3}
+  m_PrefabInstance: {fileID: 1318386517}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1321072453
 GameObject:
   m_ObjectHideFlags: 0
@@ -31571,6 +32006,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.14532909
@@ -31645,6 +32088,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -32526,11 +32977,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1239211768612062, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_Name
       value: VegetationLarge02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32577,6 +33036,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+--- !u!4 &1466431688 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1466431687}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1466944805
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33137,6 +33602,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.208796
@@ -33389,6 +33862,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -33801,6 +34282,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.30172998
@@ -33951,6 +34440,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1453291
@@ -34020,11 +34517,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1238384290194472, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_Name
       value: VegetationLarge03V2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34071,6 +34576,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+--- !u!4 &1534869504 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127,
+    type: 3}
+  m_PrefabInstance: {fileID: 1534869503}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1535248656
 GameObject:
   m_ObjectHideFlags: 0
@@ -34235,11 +34746,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -34298,6 +34817,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1539589873 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1539589872}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1541565565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35320,7 +35845,7 @@ MonoBehaviour:
     e10: 0
     e11: 1
     e12: 0
-    e13: -0.5677242
+    e13: -6.942053
     e20: 0
     e21: 0
     e22: 1
@@ -35329,7 +35854,7 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: 1922572718
+  cachedHashCode: -75946090
   fillEmptySpaces: 0
   version: 1
   globalVolume: 0
@@ -35354,11 +35879,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1238384290194472, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_Name
       value: VegetationLarge03V2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalPosition.x
@@ -35405,6 +35938,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+--- !u!4 &1604293650 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127,
+    type: 3}
+  m_PrefabInstance: {fileID: 1604293649}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1624189082
 GameObject:
   m_ObjectHideFlags: 0
@@ -36014,11 +36553,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -36077,21 +36624,35 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1631463974 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1631463973}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1635588528
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.6276
+      value: 1.6276001
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.y
@@ -36099,7 +36660,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.6276
+      value: 1.6276001
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -36146,6 +36707,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1635588529 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1635588528}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1638359429
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36764,11 +37331,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1238384290194472, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_Name
       value: VegetationLarge03V2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913631921164654, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
       propertyPath: m_LocalPosition.x
@@ -36815,6 +37390,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aed6f0b54f9d3054d94ac7c91c13d127, type: 3}
+--- !u!4 &1649707769 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4616601121639308, guid: aed6f0b54f9d3054d94ac7c91c13d127,
+    type: 3}
+  m_PrefabInstance: {fileID: 1649707768}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1653657964
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38391,6 +38972,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.62
@@ -38448,11 +39037,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582616386243472, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
       propertyPath: m_LocalScale.x
@@ -38511,6 +39108,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f06b50c23b0d2d24d98c707088d809d2, type: 3}
+--- !u!4 &1734599497 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4149867900871780, guid: f06b50c23b0d2d24d98c707088d809d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1734599496}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1736699367
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38675,11 +39278,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
@@ -38738,6 +39349,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &1741133920 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1741133919}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1743151831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38837,6 +39454,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
@@ -40277,11 +40902,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1708773231003276, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
       propertyPath: m_Name
       value: VegetationLarge04
+      objectReference: {fileID: 0}
+    - target: {fileID: 1708773231003276, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1803427967947812, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4460726850382584, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
       propertyPath: m_LocalPosition.x
@@ -40328,6 +40961,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 3}
+--- !u!4 &1847356693 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4460726850382584, guid: f5d39a49ff4d26543993ef8caa8f7c42,
+    type: 3}
+  m_PrefabInstance: {fileID: 1847356692}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1852281427
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40686,11 +41325,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
+    - target: {fileID: 1239211768612062, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_Name
       value: VegetationLarge02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -40710,15 +41357,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -40737,6 +41384,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a12e3f917bdb89448780bd75691e69d, type: 3}
+--- !u!4 &1873624789 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4534497835511646, guid: 7a12e3f917bdb89448780bd75691e69d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1873624788}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1877554345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41731,6 +42384,14 @@ PrefabInstance:
     - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_Name
       value: RockSwamp01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -43087,6 +43748,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RockSwamp01 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1350299389018228, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1481808259216576, guid: fea365f70814ed347925886d219bdd6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4033406464408490, guid: fea365f70814ed347925886d219bdd6a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.038712766
@@ -43315,11 +43984,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_Name
       value: VegetationLarge07 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1357261857304414, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
       propertyPath: m_LocalPosition.x
@@ -43366,6 +44043,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eeb105ae356d5a44d89468632f77c0ce, type: 3}
+--- !u!4 &2019060471 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4111278453869744, guid: eeb105ae356d5a44d89468632f77c0ce,
+    type: 3}
+  m_PrefabInstance: {fileID: 2019060470}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2021715624
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -45605,11 +46288,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1188851405}
     m_Modifications:
     - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_Name
       value: VegetationLarge05V2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1011418894772044, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1595611578080944, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalScale.x
@@ -45641,15 +46332,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -45668,6 +46359,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3054131e2f508a48add53172a2a890a, type: 3}
+--- !u!4 &2125950476 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4456866567437460, guid: e3054131e2f508a48add53172a2a890a,
+    type: 3}
+  m_PrefabInstance: {fileID: 2125950475}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2132189402
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -46638,34 +47335,3 @@ SceneRoots:
   - {fileID: 1671891578}
   - {fileID: 47454410}
   - {fileID: 1595120722}
-  - {fileID: 2125950475}
-  - {fileID: 313671428}
-  - {fileID: 556181014}
-  - {fileID: 463178146}
-  - {fileID: 1130225536}
-  - {fileID: 1256517621}
-  - {fileID: 871292094}
-  - {fileID: 1741133919}
-  - {fileID: 1110579621}
-  - {fileID: 1227210576}
-  - {fileID: 1734599496}
-  - {fileID: 140122265}
-  - {fileID: 1635588528}
-  - {fileID: 1539589872}
-  - {fileID: 1631463973}
-  - {fileID: 1013853725}
-  - {fileID: 253975399}
-  - {fileID: 2019060470}
-  - {fileID: 1318386517}
-  - {fileID: 158816780}
-  - {fileID: 982748093}
-  - {fileID: 1534869503}
-  - {fileID: 1604293649}
-  - {fileID: 1093593731}
-  - {fileID: 1649707768}
-  - {fileID: 1873624788}
-  - {fileID: 1160387303}
-  - {fileID: 1466431687}
-  - {fileID: 568939578}
-  - {fileID: 1847356692}
-  - {fileID: 1289295834}
